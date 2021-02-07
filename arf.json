@@ -1,8 +1,8 @@
 {
-    "name": "OSINT Dark Web Framework",
+    "name": "OSINT DarkWeb Framework",
     "type": "folder",
     "children": [{
-        "name": "TOR Client, Do you have the TOR client downloaded",
+        "name": "TOR client downloaded?",
         "type": "folder",
         "children": [{
             "name": "YES",
