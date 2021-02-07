@@ -1,0 +1,26 @@
+{
+    "name": "OSINT Dark Web Framework",
+    "type": "folder",
+    "children": [{
+        "name": "TOR Client, Do you have the TOR client downloaded",
+        "type": "folder",
+        "children": [{
+            "name": "YES",
+            "type": "folder"
+        }, {
+            "name": "NO",
+            "type": "folder",
+            "children": [{
+                    "name": "Plessas",
+                    "type": "url",
+                    "url": "https://plessas.net/online-training"
+                },
+                {
+                    "name": "SANS SEC487 OSINT Class",
+                    "type": "url",
+                    "url": "https://www.sans.org/sec487"
+                }
+            ]
+        }]
+    }]
+}
