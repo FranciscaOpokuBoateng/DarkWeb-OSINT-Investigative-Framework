@@ -147,7 +147,7 @@
                                     "name": "NoveltyNation",
                                     "type": "url",
                                     "url": "https://noveltynation.net/"
-                                },  {
+                                }, {
                                     "name": "IDViking",
                                     "type": "url",
                                     "url": "http://idviking.com/"
@@ -164,9 +164,17 @@
                                 }
                             ]
                         }, {
-                            "name": "Hidden Wiki TOR",
-                            "type": "url",
-                            "url": "https://thehiddenwiki.org/"
+                            "name": "WikiTOR",
+                            "type": "folder",
+                            "children": [{
+                                "name": "HiddenWikiTOR",
+                                "type": "url",
+                                "url": "https://thehiddenwiki.org/"
+                            }, {
+                                "name": "WkiHow",
+                                "type": "url",
+                                "url": "https://www.wikihow.com/Make-a-Fake-ID"
+                            }]
                         }
                     ]
                 },
