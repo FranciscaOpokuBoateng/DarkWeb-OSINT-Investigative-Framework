@@ -209,16 +209,20 @@
                                     "type": "folder",
                                     "children": [{
                                         "name": "Darknets",
-                                        "type": "url"
+                                        "type": "url",
+                                        "url": ""
                                     }, {
                                         "name": "Method of Procurement",
-                                        "type": "url"
+                                        "type": "url",
+                                        "url": ""
                                     }, {
                                         "name": "Method of Communication",
-                                        "type": "url"
+                                        "type": "url",
+                                        "url": ""
                                     }, {
                                         "name": "Method of Shipping",
-                                        "type": "url"
+                                        "type": "url",
+                                        "url": ""
                                     }]
                                 },
                                 {
@@ -226,16 +230,20 @@
                                     "type": "folder",
                                     "children": [{
                                         "name": "Darknets",
-                                        "type": "url"
+                                        "type": "url",
+                                        "url": ""
                                     }, {
                                         "name": "Method of Procurement",
-                                        "type": "url"
+                                        "type": "url",
+                                        "url": ""
                                     }, {
                                         "name": "Method of Communication",
-                                        "type": "url"
+                                        "type": "url",
+                                        "url": ""
                                     }, {
                                         "name": "Method of Shipping",
-                                        "type": "url"
+                                        "type": "url",
+                                        "url": ""
                                     }]
                                 }, {
                                     "name": "Visas",
