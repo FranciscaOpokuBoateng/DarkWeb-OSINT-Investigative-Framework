@@ -422,26 +422,26 @@
                     ]
                 }
             ]
+        }, {
+            "name": "NO",
+            "type": "folder",
+            "children": [{
+                    "name": "Download Tor ",
+                    "type": "url",
+                    "url": "https://www.torproject.org/download/"
+                },
+                {
+                    "name": "Download Tails",
+                    "type": "url",
+                    "url": "https://tails.boum.org/install/"
+                },
+                {
+                    "name": "Download I2P Anonymous Network",
+                    "type": "url",
+                    "url": "https://geti2p.net/en/"
+                }
+            ]
+    
         }]
-    }, {
-        "name": "NO",
-        "type": "folder",
-        "children": [{
-                "name": "Download Tor ",
-                "type": "url",
-                "url": "https://www.torproject.org/download/"
-            },
-            {
-                "name": "Download Tails",
-                "type": "url",
-                "url": "https://tails.boum.org/install/"
-            },
-            {
-                "name": "Download I2P Anonymous Network",
-                "type": "url",
-                "url": "https://geti2p.net/en/"
-            }
-        ]
-
     }]
 }
