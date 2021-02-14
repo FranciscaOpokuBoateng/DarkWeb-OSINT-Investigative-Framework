@@ -225,8 +225,42 @@
                                         "url": ""
                                     }, {
                                         "name": "Method of Communication",
-                                        "type": "url",
-                                        "url": ""
+                                        "type": "folder",
+                                        "children": [{
+                                            "name": "Forums",
+                                            "type": "folder"
+                                           
+                                        }, {
+                                            "name": "Encypted Email Platforms",
+                                            "type": "folder",
+                                            "children": [{
+                                                "name": "YES",
+                                                "type": "folder",
+                                                "children": [{
+                                                    "name": "Log In",
+                                                    "type": "url",
+                                                    "url": "https://mail.protonmail.com/login"
+                                                   
+                                                }]
+                                               
+                                            }, {
+                                                "name": "NO",
+                                                "type": "folder",
+                                                "children": [{
+                                                    "name": "SW - Sign Up",
+                                                    "type": "url",
+                                                    "url": "https://mail.protonmail.com/create/new"
+                                                   
+                                                }, {
+                                                    "name": "DW - Sign Up",
+                                                    "type": "url",
+                                                    "url": ""
+                                                    
+                                                }]
+                                                
+                                            }]
+                                            
+                                        }]
                                     }, {
                                         "name": "Method of Shipping",
                                         "type": "url",
@@ -246,8 +280,42 @@
                                         "url": ""
                                     }, {
                                         "name": "Method of Communication",
-                                        "type": "url",
-                                        "url": ""
+                                        "type": "folder",
+                                        "children": [{
+                                            "name": "Forums",
+                                            "type": "folder"
+                                           
+                                        }, {
+                                            "name": "Encypted Email Platforms",
+                                            "type": "folder",
+                                            "children": [{
+                                                "name": "YES",
+                                                "type": "folder",
+                                                "children": [{
+                                                    "name": "Log In",
+                                                    "type": "url",
+                                                    "url": "https://mail.protonmail.com/login"
+                                                   
+                                                }]
+                                               
+                                            }, {
+                                                "name": "NO",
+                                                "type": "folder",
+                                                "children": [{
+                                                    "name": "SW - Sign Up",
+                                                    "type": "url",
+                                                    "url": "https://mail.protonmail.com/create/new"
+                                                   
+                                                }, {
+                                                    "name": "DW - Sign Up",
+                                                    "type": "url",
+                                                    "url": ""
+                                                    
+                                                }]
+                                                
+                                            }]
+                                            
+                                        }]
                                     }, {
                                         "name": "Method of Shipping",
                                         "type": "url",
