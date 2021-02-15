@@ -224,7 +224,150 @@
                                     "type": "folder",
                                     "children": [{
                                         "name": "Digital Currency",
-                                        "type": "folder"
+                                        "type": "folder",
+                                        "children": [{
+                                            "name": "Bitcoin",
+                                            "type": "folder",
+                                            "children": [{
+                                                "name": "YES",
+                                                "type": "folder",
+                                                "children": [{
+                                                    "name": "Bitcoin Information",
+                                                    "type": "url",
+                                                    "url": "https://bitcoin.org/en/"
+                                                },{
+                                                    "name": "Bitcoin Transactions Investigate Tools",
+                                                    "type": "folder",
+                                                    "children":[
+                                                        {
+                                                            "name": "Blockonomics.co",
+                                                            "type": "url",
+                                                            "url": "https://www.blockonomics.co/"
+                                                        },{
+                                                            "name": "Bitref",
+                                                            "type": "url",
+                                                            "url": "https://bitref.com/"
+                
+                                                        },{
+                                                            "name": "Blockchain",
+                                                            "type": "url",
+                                                            "url": "https://www.blockchain.com/explorer"
+                
+                                                        },
+                                                        {
+                                                            "name": "Blockchair",
+                                                            "type": "url",
+                                                            "url": "https://blockchair.com/"
+                                                        },{
+                                                            "name": "Walletexplorer.com",
+                                                            "type": "url",
+                                                            "url": "https://www.walletexplorer.com/"
+                
+                                                        },{
+                                                            "name": "Bitcoinwhoswho",
+                                                            "type": "url",
+                                                            "url": "https://bitcoinwhoswho.com/"
+                
+                                                        }
+                                                    ]
+        
+                                                }]
+        
+                                            }, {
+                                                "name": "NO",
+                                                "type": "folder",
+                                                "children": [{
+                                                    "name": "Check other Digital currencies",
+                                                    "type": "url"
+        
+                                                }]
+        
+                                            }]
+                                        },
+                                        {
+                                            "name": "Monero",
+                                            "type": "folder",
+                                            "children": [{
+                                                "name": "YES",
+                                                "type": "folder",
+                                                "children": [{
+                                                    "name": "Monero Information",
+                                                    "type": "url",
+                                                    "url": "https://www.getmonero.org/"
+                                                },{
+                                                    "name": "Monero Transactions Investigate Tools",
+                                                    "type": "folder",
+                                                    "children":[
+                                                        {
+                                                            "name": "LocalMonero.co",
+                                                            "type": "url",
+                                                            "url": "https://localmonero.co/blocks"
+                                                        },{
+                                                            "name": "Xmrchain.net",
+                                                            "type": "url",
+                                                            "url": "https://xmrchain.net/"
+                
+                                                        },{
+                                                            "name": "CoinDesk",
+                                                            "type": "url",
+                                                            "url": "https://www.coindesk.com/price/monero"
+                
+                                                        }
+                                                    ]
+        
+                                                }]
+        
+                                            }, {
+                                                "name": "NO",
+                                                "type": "folder",
+                                                "children": [{
+                                                    "name": "Check other Digital currencies",
+                                                    "type": "url"
+        
+                                                }]
+        
+                                            }]
+                                        },
+                                        {
+                                            "name": "Ethereum",
+                                            "type": "folder",
+                                            "children": [{
+                                                "name": "YES",
+                                                "type": "folder",
+                                                "children": [{
+                                                    "name": "Ethereum Information",
+                                                    "type": "url",
+                                                    "url": "https://ethereum.org/en/"
+                                                },{
+                                                    "name": "Ethereum Transactions Investigate Tools",
+                                                    "type": "folder",
+                                                    "children":[
+                                                        {
+                                                            "name": "TheBitCamp",
+                                                            "type": "url",
+                                                            "url": "https://thebitcamp.com/"
+                                                        },{
+                                                            "name": "Etherscan.io",
+                                                            "type": "url",
+                                                            "url": "https://etherscan.io/"
+                
+                                                        }
+                                                    ]
+        
+                                                }]
+        
+                                            }, {
+                                                "name": "NO",
+                                                "type": "folder",
+                                                "children": [{
+                                                    "name": "Check other Digital currencies",
+                                                    "type": "url"
+        
+                                                }]
+        
+                                            }]
+                                        }
+                                    ]
 
                                     },{
                                         "name": "Western Union",
@@ -499,7 +642,150 @@
                                     "type": "folder",
                                     "children": [{
                                         "name": "Digital Currency",
-                                        "type": "folder"
+                                        "type": "folder",
+                                        "children": [{
+                                            "name": "Bitcoin",
+                                            "type": "folder",
+                                            "children": [{
+                                                "name": "YES",
+                                                "type": "folder",
+                                                "children": [{
+                                                    "name": "Bitcoin Information",
+                                                    "type": "url",
+                                                    "url": "https://bitcoin.org/en/"
+                                                },{
+                                                    "name": "Bitcoin Transactions Investigate Tools",
+                                                    "type": "folder",
+                                                    "children":[
+                                                        {
+                                                            "name": "Blockonomics.co",
+                                                            "type": "url",
+                                                            "url": "https://www.blockonomics.co/"
+                                                        },{
+                                                            "name": "Bitref",
+                                                            "type": "url",
+                                                            "url": "https://bitref.com/"
+                
+                                                        },{
+                                                            "name": "Blockchain",
+                                                            "type": "url",
+                                                            "url": "https://www.blockchain.com/explorer"
+                
+                                                        },
+                                                        {
+                                                            "name": "Blockchair",
+                                                            "type": "url",
+                                                            "url": "https://blockchair.com/"
+                                                        },{
+                                                            "name": "Walletexplorer.com",
+                                                            "type": "url",
+                                                            "url": "https://www.walletexplorer.com/"
+                
+                                                        },{
+                                                            "name": "Bitcoinwhoswho",
+                                                            "type": "url",
+                                                            "url": "https://bitcoinwhoswho.com/"
+                
+                                                        }
+                                                    ]
+        
+                                                }]
+        
+                                            }, {
+                                                "name": "NO",
+                                                "type": "folder",
+                                                "children": [{
+                                                    "name": "Check other Digital currencies",
+                                                    "type": "url"
+        
+                                                }]
+        
+                                            }]
+                                        },
+                                        {
+                                            "name": "Monero",
+                                            "type": "folder",
+                                            "children": [{
+                                                "name": "YES",
+                                                "type": "folder",
+                                                "children": [{
+                                                    "name": "Monero Information",
+                                                    "type": "url",
+                                                    "url": "https://www.getmonero.org/"
+                                                },{
+                                                    "name": "Monero Transactions Investigate Tools",
+                                                    "type": "folder",
+                                                    "children":[
+                                                        {
+                                                            "name": "LocalMonero.co",
+                                                            "type": "url",
+                                                            "url": "https://localmonero.co/blocks"
+                                                        },{
+                                                            "name": "Xmrchain.net",
+                                                            "type": "url",
+                                                            "url": "https://xmrchain.net/"
+                
+                                                        },{
+                                                            "name": "CoinDesk",
+                                                            "type": "url",
+                                                            "url": "https://www.coindesk.com/price/monero"
+                
+                                                        }
+                                                    ]
+        
+                                                }]
+        
+                                            }, {
+                                                "name": "NO",
+                                                "type": "folder",
+                                                "children": [{
+                                                    "name": "Check other Digital currencies",
+                                                    "type": "url"
+        
+                                                }]
+        
+                                            }]
+                                        },
+                                        {
+                                            "name": "Ethereum",
+                                            "type": "folder",
+                                            "children": [{
+                                                "name": "YES",
+                                                "type": "folder",
+                                                "children": [{
+                                                    "name": "Ethereum Information",
+                                                    "type": "url",
+                                                    "url": "https://ethereum.org/en/"
+                                                },{
+                                                    "name": "Ethereum Transactions Investigate Tools",
+                                                    "type": "folder",
+                                                    "children":[
+                                                        {
+                                                            "name": "TheBitCamp",
+                                                            "type": "url",
+                                                            "url": "https://thebitcamp.com/"
+                                                        },{
+                                                            "name": "Etherscan.io",
+                                                            "type": "url",
+                                                            "url": "https://etherscan.io/"
+                
+                                                        }
+                                                    ]
+        
+                                                }]
+        
+                                            }, {
+                                                "name": "NO",
+                                                "type": "folder",
+                                                "children": [{
+                                                    "name": "Check other Digital currencies",
+                                                    "type": "url"
+        
+                                                }]
+        
+                                            }]
+                                        }
+                                    ]
 
                                     },{
                                         "name": "Western Union",
