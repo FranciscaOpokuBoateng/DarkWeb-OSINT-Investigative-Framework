@@ -236,7 +236,56 @@
 
                                     },{
                                         "name": "Paypal",
-                                        "type": "folder"
+                                        "type": "folder",
+                                        "children": [{
+                                            "name": "YES",
+                                            "type": "folder",
+                                            "children": [{
+                                                "name": "PayPal Information ",
+                                                "type": "folder",
+                                                "children": [{
+                                                    "name": "General Information ",
+                                                    "type": "url",
+                                                    "url": "https://www.paypal.com/us/home"
+        
+                                                },{
+                                                    "name": "Creating Account",
+                                                    "type": "url",
+                                                    "url": "https://www.paypal.com/us/webapps/mpp/account-selection"
+        
+                                                }]   
+                                            },{
+                                                "name": "Investigating PayPal Transactions",
+                                                "type": "folder",
+                                                "children": [{
+                                                    "name": "PayPal Investigative Team ",
+                                                    "type": "url",
+                                                    "url": "https://www.paypal.com/us/webapps/mpp/law-enforcement"
+        
+                                                },{
+                                                    "name": "Safety Hub/Reporting ",
+                                                    "type": "url",
+                                                    "url": "https://safetyhub.paypalcorp.com/AIP/portal/home.do"
+        
+                                                },{
+                                                    "name": "LEA Guide",
+                                                    "type": "url",
+                                                    "url": "https://www.paypalobjects.com/webstatic/mktg/pdf/PayPal_ROW_LE_Guide_en.pdf"
+        
+                                                }]   
+    
+                                            }]
+    
+                                        }, {
+                                            "name": "NO",
+                                            "type": "folder",
+                                            "children": [{
+                                                "name": "Check other payment methods!",
+                                                "type": "url"
+    
+                                            }]
+    
+                                        }]
 
                                     }]
                                 }, {
@@ -397,7 +446,56 @@
 
                                     },{
                                         "name": "Paypal",
-                                        "type": "folder"
+                                        "type": "folder",
+                                        "children": [{
+                                            "name": "YES",
+                                            "type": "folder",
+                                            "children": [{
+                                                "name": "PayPal Information ",
+                                                "type": "folder",
+                                                "children": [{
+                                                    "name": "General Information ",
+                                                    "type": "url",
+                                                    "url": "https://www.paypal.com/us/home"
+        
+                                                },{
+                                                    "name": "Creating Account",
+                                                    "type": "url",
+                                                    "url": "https://www.paypal.com/us/webapps/mpp/account-selection"
+        
+                                                }]   
+                                            },{
+                                                "name": "Investigating PayPal Transactions",
+                                                "type": "folder",
+                                                "children": [{
+                                                    "name": "PayPal Investigative Team ",
+                                                    "type": "url",
+                                                    "url": "https://www.paypal.com/us/webapps/mpp/law-enforcement"
+        
+                                                },{
+                                                    "name": "Safety Hub/Reporting ",
+                                                    "type": "url",
+                                                    "url": "https://safetyhub.paypalcorp.com/AIP/portal/home.do"
+        
+                                                },{
+                                                    "name": "LEA Guide",
+                                                    "type": "url",
+                                                    "url": "https://www.paypalobjects.com/webstatic/mktg/pdf/PayPal_ROW_LE_Guide_en.pdf"
+        
+                                                }]   
+    
+                                            }]
+    
+                                        }, {
+                                            "name": "NO",
+                                            "type": "folder",
+                                            "children": [{
+                                                "name": "Check other payment methods!",
+                                                "type": "url"
+    
+                                            }]
+    
+                                        }]
 
                                     }]
                                 }, {
