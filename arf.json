@@ -228,7 +228,48 @@
 
                                     },{
                                         "name": "Western Union",
-                                        "type": "folder"
+                                        "type": "folder",
+                                        "children": [{
+                                            "name": "YES",
+                                            "type": "folder",
+                                            "children": [{
+                                                "name": "Western Union Information ",
+                                                "type": "url",
+                                                "url": "https://www.westernunion.com/us/en/home.html"
+                                            },{
+                                                "name": "Investigating Moneygram Transaction",
+                                                "type": "folder",
+                                                "children":[
+                                                    {
+                                                        "name": "Reporting Fraud",
+                                                        "type": "url",
+                                                        "url": "https://www.westernunion.com/us/en/fraudawareness/fraud-report-fraud.html"
+                                                    },{
+                                                        "name": "Reporting to Authorities",
+                                                        "type": "url",
+                                                        "url": "https://www.westernunion.com/ie/en/fraudawareness/fraud-report-to-authorities.html"
+            
+                                                    },
+                                                    {
+                                                        "name": "Fraud Q&A",
+                                                        "type": "url",
+                                                        "url": "https://www.westernunion.com/us/en/fraudawareness/fraud-question-and-answer.html"
+            
+                                                    }
+                                                ]
+    
+                                            }]
+    
+                                        }, {
+                                            "name": "NO",
+                                            "type": "folder",
+                                            "children": [{
+                                                "name": "Check other payment methods!",
+                                                "type": "url"
+    
+                                            }]
+    
+                                        }]
 
                                     },{
                                         "name": "Moneygram",
@@ -438,11 +479,76 @@
 
                                     },{
                                         "name": "Western Union",
-                                        "type": "folder"
+                                        "type": "folder",
+                                        "children": [{
+                                            "name": "YES",
+                                            "type": "folder",
+                                            "children": [{
+                                                "name": "Western Union Information ",
+                                                "type": "url",
+                                                "url": "https://www.westernunion.com/us/en/home.html"
+                                            },{
+                                                "name": "Investigating Moneygram Transaction",
+                                                "type": "folder",
+                                                "children":[
+                                                    {
+                                                        "name": "Reporting Fraud",
+                                                        "type": "url",
+                                                        "url": "https://www.westernunion.com/us/en/fraudawareness/fraud-report-fraud.html"
+                                                    },{
+                                                        "name": "Reporting to Authorities",
+                                                        "type": "url",
+                                                        "url": "https://www.westernunion.com/ie/en/fraudawareness/fraud-report-to-authorities.html"
+            
+                                                    },
+                                                    {
+                                                        "name": "Fraud Q&A",
+                                                        "type": "url",
+                                                        "url": "https://www.westernunion.com/us/en/fraudawareness/fraud-question-and-answer.html"
+            
+                                                    }
+                                                ]
+    
+                                            }]
+    
+                                        }, {
+                                            "name": "NO",
+                                            "type": "folder",
+                                            "children": [{
+                                                "name": "Check other payment methods!",
+                                                "type": "url"
+    
+                                            }]
+    
+                                        }]
 
                                     },{
                                         "name": "Moneygram",
-                                        "type": "folder"
+                                        "type": "folder",
+                                        "children": [{
+                                            "name": "YES",
+                                            "type": "folder",
+                                            "children": [{
+                                                "name": "Moneygram Information ",
+                                                "type": "url",
+                                                "url": "http://global.moneygram.com/"
+                                            },{
+                                                "name": "Investigating Moneygram Transaction",
+                                                "type": "url",
+                                                "url": "https://ir.moneygram.com/news-releases/news-release-details/moneygram-reveals-strong-results-new-fraud-prevention-tool"
+    
+                                            }]
+    
+                                        }, {
+                                            "name": "NO",
+                                            "type": "folder",
+                                            "children": [{
+                                                "name": "Check other payment methods!",
+                                                "type": "url"
+    
+                                            }]
+    
+                                        }]
 
                                     },{
                                         "name": "Paypal",
