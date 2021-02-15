@@ -221,8 +221,24 @@
                                     "url": ""
                                 }, {
                                     "name": "Method of Procurement",
-                                    "type": "url",
-                                    "url": ""
+                                    "type": "folder",
+                                    "children": [{
+                                        "name": "Digital Currency",
+                                        "type": "folder"
+
+                                    },{
+                                        "name": "Western Union",
+                                        "type": "folder"
+
+                                    },{
+                                        "name": "Moneygram",
+                                        "type": "folder"
+
+                                    },{
+                                        "name": "Paypal",
+                                        "type": "folder"
+
+                                    }]
                                 }, {
                                     "name": "Method of Communication",
                                     "type": "folder",
@@ -364,10 +380,26 @@
                                     "name": "Darknets",
                                     "type": "url",
                                     "url": ""
-                                }, {
+                                },{
                                     "name": "Method of Procurement",
-                                    "type": "url",
-                                    "url": ""
+                                    "type": "folder",
+                                    "children": [{
+                                        "name": "Digital Currency",
+                                        "type": "folder"
+
+                                    },{
+                                        "name": "Western Union",
+                                        "type": "folder"
+
+                                    },{
+                                        "name": "Moneygram",
+                                        "type": "folder"
+
+                                    },{
+                                        "name": "Paypal",
+                                        "type": "folder"
+
+                                    }]
                                 }, {
                                     "name": "Method of Communication",
                                     "type": "folder",
