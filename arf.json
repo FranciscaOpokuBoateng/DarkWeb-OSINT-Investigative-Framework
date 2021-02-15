@@ -237,7 +237,7 @@
                                                 "type": "url",
                                                 "url": "https://www.westernunion.com/us/en/home.html"
                                             },{
-                                                "name": "Investigating Moneygram Transaction",
+                                                "name": "Investigating Wester Union Fraud",
                                                 "type": "folder",
                                                 "children":[
                                                     {
@@ -273,7 +273,31 @@
 
                                     },{
                                         "name": "Moneygram",
-                                        "type": "folder"
+                                        "type": "folder",
+                                        "children": [{
+                                            "name": "YES",
+                                            "type": "folder",
+                                            "children": [{
+                                                "name": "Moneygram Information ",
+                                                "type": "url",
+                                                "url": "http://global.moneygram.com/"
+                                            },{
+                                                "name": "Investigating Moneygram Transaction",
+                                                "type": "url",
+                                                "url": "https://ir.moneygram.com/news-releases/news-release-details/moneygram-reveals-strong-results-new-fraud-prevention-tool"
+    
+                                            }]
+    
+                                        }, {
+                                            "name": "NO",
+                                            "type": "folder",
+                                            "children": [{
+                                                "name": "Check other payment methods!",
+                                                "type": "url"
+    
+                                            }]
+    
+                                        }]
 
                                     },{
                                         "name": "Paypal",
@@ -488,7 +512,7 @@
                                                 "type": "url",
                                                 "url": "https://www.westernunion.com/us/en/home.html"
                                             },{
-                                                "name": "Investigating Moneygram Transaction",
+                                                "name": "Investigating Wester Union Fraud",
                                                 "type": "folder",
                                                 "children":[
                                                     {
