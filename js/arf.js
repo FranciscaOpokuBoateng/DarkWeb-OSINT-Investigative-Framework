@@ -1,5 +1,5 @@
-var margin = [20, 120, 20, 100],
-    width = 1500 - margin[1] - margin[3],
+var margin = [20, 100, 20, 100],
+    width = 1700 - margin[1] - margin[3],
     height = 800 - margin[0] - margin[2],
     i = 0,
     duration = 1250,
