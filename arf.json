@@ -2,12 +2,6 @@
     "name": "OSINT DWIF",
     "type": "folder",
     "children": [{
-        "name": "Do you have TOR client?",
-        "type": "folder",
-        "children": [{
-            "name": "YES",
-            "type": "folder",
-            "children": [{
                     "name": "Surface Web(SW)",
                     "type": "folder",
                     "children": [{
@@ -177,7 +171,13 @@
                             }]
                         }
                     ]
-                },
+                },{
+        "name": "Dark Web (DW)",
+        "type": "folder",
+        "children": [{
+            "name": "YES",
+            "type": "folder",
+            "children": [
                 {
                     "name": "Dark Web (DW)",
                     "type": "folder",
