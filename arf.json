@@ -684,9 +684,7 @@
                               {
                                 "name": "Proton Mail",
                                 "type": "url",
-                                "url": "https://mail.protonmail.com/login"[
-                                  
-                                ]
+                                "url": "https://mail.protonmail.com/login"
                               },
                               {
                                 "name": "ZeroMail",
