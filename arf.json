@@ -518,19 +518,40 @@
                                     ]
                                   }
                                 ]
-                              },
-                              {
-                                "name": "Cryptocurrency/BitCoin Tumbler",
-                                "type": "folder",
-                                "children": [
-                                  {
-                                    "name": "General Information",
-                                    "type": "url",
-                                    "url":  "https://medium.com/the-capital/cryptocurrency-tumblers-a-headache-for-regulators-d6a7e0ab5e3b" 
-                                  }
-                                  ]
                               }
                             ]
+                          },
+                          {
+                            "name": "Cryptocurrency/BitCoin Tumbler",
+                            "type": "folder",
+                            "children": [
+                              {
+                                "name": "General Information",
+                                "type": "url",
+                                "url":  "https://medium.com/the-capital/cryptocurrency-tumblers-a-headache-for-regulators-d6a7e0ab5e3b" 
+                              },
+                              {
+                                "name": "Types Of Tumblers",
+                                "type": "folder",
+                                "children":  [ 
+                                  {
+                                    "name": "BitCoin Fog",
+                                    "type": "url",
+                                    "url":  "https://bitcoinfog.site/" 
+                                  },
+                                  {
+                                    "name": "Chip Mixer",
+                                    "type": "url",
+                                    "url":  "https://chipmixer.com/" 
+                                  },
+                                  {
+                                    "name": "Crypto Mixer",
+                                    "type": "url",
+                                    "url":  "https://cryptomixer.io/" 
+                                  }
+                                ]
+                              }
+                              ]
                           },
                           {
                             "name": "Western Union",
