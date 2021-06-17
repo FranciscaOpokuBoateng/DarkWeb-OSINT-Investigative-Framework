@@ -835,6 +835,11 @@
                     "name": "Download I2P Anonymous Network",
                     "type": "url",
                     "url": "https://geti2p.net/en/"
+                  },
+                  {
+                    "name": "Download ZeroNet",
+                    "type": "url",
+                    "url": "https://zeronet.io/"
                   }
                 ]
               }
