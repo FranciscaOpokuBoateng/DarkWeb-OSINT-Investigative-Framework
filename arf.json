@@ -682,32 +682,17 @@
                             "type": "folder",
                             "children": [
                               {
-                                "name": "YES",
-                                "type": "folder",
-                                "children": [
-                                  {
-                                    "name": "Log In",
-                                    "type": "url",
-                                    "url": "https://mail.protonmail.com/login"
+                                "name": "Proton Email",
+                                "type": "url",
+                                "url":  "https://mail.protonmail.com/login"
+                                  },
+                                 {
+                                "name": "ZeroMail",
+                                "type": "url",
+                                "url":  "http://127.0.0.1:43110/Mail.ZeroNetwork.bit/"
                                   }
                                 ]
                               },
-                              {
-                                "name": "NO",
-                                "type": "folder",
-                                "children": [
-                                  {
-                                    "name": "SW - Sign Up",
-                                    "type": "url",
-                                    "url": "https://mail.protonmail.com/create/new"
-                                  },
-                                  {
-                                    "name": "DW - Sign Up",
-                                    "type": "url",
-                                    "url": ""
-                                  }
-                                ]
-                              }
                             ]
                           }
                         ]
